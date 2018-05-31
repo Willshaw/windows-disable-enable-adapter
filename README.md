@@ -21,6 +21,7 @@ In the same right click menu, choose "Properties", select the "Shortcut" tab and
 ![Proprties popup Shortuct tab Advanced button](https://raw.githubusercontent.com/Willshaw/windows-disable-enable-adapter/master/advanced-shortcut-properties.PNG)
 
 Tick "Run as administrator" in the "Advanced properties" popup
+
 ![Run as administrator](https://raw.githubusercontent.com/Willshaw/windows-disable-enable-adapter/master/run-as-admin.PNG)
 
 ## Running the script
